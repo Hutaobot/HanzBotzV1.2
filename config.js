@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6285779150501'] 
-global.mods = ['6285779150501'] 
-global.prems = ['6285779150501'] 
+global.owner = ['6283854551575'] 
+global.mods = ['6283854551575'] 
+global.prems = ['6283854551575'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '⫹⫺ Creator Bot ~'
-global.numberowner = '6285779150501'
-global.instagram = 'https://instagram.com/rangga_botz'
-global.github = 'https://github.com/RyanBotzz'
-global.dana = '6285779150501'
-global.pulsa = '6285779150501'
-global.gopay = ''
+global.nameowner = '⫹⫺ A7 RAFLI ~'
+global.numberowner = '6283854551575'
+global.instagram = 'https://instagram.com/rafli_editz2'
+global.github = 'https://github.com/Futaroukun'
+global.dana = '6285722157719'
+global.pulsa = '6283854551575'
+global.gopay = '6285722157719'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'HANZBOTZ'
-global.gc = 'https://chat.whatsapp.com/JCgXlfkzK6p6xIYk5ij0Pa'
-global.web = 'https://youtube.com/channel/UCs8sFcihqsye35hnom6CEXQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'HU TAO BOT-MD'
+global.gc = 'https://chat.whatsapp.com/KRy6wWgQpPP0h1b0TumuJY'
+global.web = 'https://linktr.ee/rafli_editz2' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/26a28a18f4552e0c060fd.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/de491269b9dcb23f645a6.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© HANZ-MD'
+global.wm = '© HU TAO BOT-MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ HANZ-MD'
-global.wm3 = '© HANZ-MD'
+global.wm2 = '⫹⫺ HU TAO BOT-MD'
+global.wm3 = '© HU TAO BOT-MD'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -38,7 +38,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nHANZ-MD'
+global.author = 'Bot WhatsApp\nHU TAO BOT-MD'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
