@@ -11,6 +11,6 @@ conn.sendFile(m.chat, json.result.male,'pria.jpg',  'Cowo', m)
 handler.help = ['ppcp']
 handler.tags = ['internet']
 handler.command = /^ppcp$/i
-
+handler.limit = true
 
 module.exports = handler
