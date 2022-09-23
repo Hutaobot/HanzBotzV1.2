@@ -23,5 +23,6 @@ let handler = async (m, { conn, text }) => {
 handler.help = ['kanji'].map(v => v + ' <kanji>')
 handler.tags = ['internet']
 handler.command =/^(kanji)$/i
+handler.limit = true
 
 module.exports = handler
