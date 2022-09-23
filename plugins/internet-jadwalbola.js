@@ -31,6 +31,7 @@ Channel tv: ${json.data[4].channel}
 handler.help = ['jadwalbola']
 handler.tags = ['internet']
 handler.command = /^jadwalbola$/i
+handler.limit = true
 
 
 module.exports = handler
